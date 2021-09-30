@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KiikiTinna
+- 👋 Hi
 - 👀 I’m interested in Robotics, new researchers, algorithms, programming languages (Python, C++), Ros development.
 - 🌱 I want to learn more about Artificial intelligence and ROS development.
 - 💞️ I’m looking to collaborate on interesting Robotics, research and AI projects. 
